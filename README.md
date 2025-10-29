@@ -17,10 +17,11 @@ Mesmo sem criar interfaces visuais, gosto de escrever **código simples e eficie
 
 ## 📂 Projetos em destaque
 
-| **Palindrome Checker** | Verifica palíndromos usando JavaScript puro |
-| **Número Secreto** | Jogo de adivinhar números com lógica de controle de tentativas |
-<!--| **Carrinho** | Sistema de simulação de carrinho de compras, manipulação de objetos e arrays |
-| **Aluguel de Jogos** | Pequena aplicação para gerenciamento de locação, lógica de dados e operações CRUD simuladas |-->
+| Projeto | Descrição |
+|---------|-----------|
+| Palindrome Checker | Verifica palíndromos <br> usando JavaScript puro |
+| Número Secreto    | Jogo de adivinhar números <br> com lógica de controle |
+<!--| Carrinho          | Sistema de simulação de carrinho <br> manipulação de objetos e arrays |-->
 
 ---
 
@@ -32,7 +33,7 @@ Mesmo sem criar interfaces visuais, gosto de escrever **código simples e eficie
 
 ---
 
-## 🌺 Contato 🌺
+## 🌺 Contato 
 
 - GitHub: [github.com/ana-claudino](https://github.com/ana-claudino)  
 - Gmail: [anaclaudinomelo@gmail.com](anaclaudinomelo@gmail.com)
