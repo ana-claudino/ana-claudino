@@ -42,5 +42,5 @@ Mesmo sem criar interfaces visuais, estou aprendendo a escrever **código simple
 ---
 
 ## 🌺 Estatísticas do Github:
-[![Estatísticas do GitHub de ana-claudino]([https://github-readme-stats.vercel.app/api?username=oPaozinh0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=ana-claudino&layout=compact&theme=radical&hide_border=true))](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub de ana-claudino]([[https://github-readme-stats.vercel.app/api?username=oPaozinh0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=ana-claudino&layout=compact&theme=radical&hide_border=true)](https://github-readme-stats.vercel.app/api?username=ana-claudino&layout=compact&theme=radical&hide_border=true))](https://github.com/anuraghazra/github-readme-stats)
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-claudino&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
