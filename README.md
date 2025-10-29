@@ -29,8 +29,8 @@ Mesmo sem criar interfaces visuais, gosto de escrever **código simples e eficie
 
 - **Aprofundando** em JS
 - **APIs completas com Node.js**  
+- Ccódigo mais modular e escalável
 <!--- Integrar **bancos de dados** (MongoDB / PostgreSQL) -->
-- Escrever código mais modular e escalável
 
 ---
 
