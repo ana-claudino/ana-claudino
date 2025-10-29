@@ -9,7 +9,7 @@ Mesmo sem criar interfaces visuais, estou aprendendo a escrever **código simple
 ## 🛠 Tecnologias & Conceitos
 
 - **JavaScript (ES6+)** — arrays, objetos, funções, async/await, promises  
-- **Node.js & Express** — criando APIs e manipulando dados do servidor  
+- **Node.js** — criando APIs e manipulando dados do servidor  
 - **Git/GitHub** — versionamento e organização de repositórios  
 - **Lógica e Algoritmos** — resolução de problemas e mini-projetos de back-end  
 
@@ -38,3 +38,9 @@ Mesmo sem criar interfaces visuais, estou aprendendo a escrever **código simple
 
 - GitHub: [github.com/ana-claudino](https://github.com/ana-claudino)  
 - Gmail: [anaclaudinomelo@gmail.com](anaclaudinomelo@gmail.com)
+
+---
+
+## 🌺 Estatísticas do Github:
+[![Estatísticas do GitHub de ana-claudino]([https://github-readme-stats.vercel.app/api?username=oPaozinh0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=ana-claudino&layout=compact&theme=radical&hide_border=true))](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-claudino&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
