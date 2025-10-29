@@ -19,14 +19,15 @@ Mesmo sem criar interfaces visuais, gosto de escrever **código simples e eficie
 
 | Projeto | Descrição |
 |---------|-----------|
-| Palindrome Checker | Verifica palíndromos <br> usando JavaScript puro |
-| Número Secreto    | Jogo de adivinhar números <br> com lógica de controle |
+| Palindrome Checker | Verifica palíndromos usando JavaScript puro |
+| Número Secreto    | Jogo de adivinhar números com lógica de controle de tentativas|
 <!--| Carrinho          | Sistema de simulação de carrinho <br> manipulação de objetos e arrays |-->
 
 ---
 
 ## 🌺 Estou aprendendo
 
+- **Aprofundando** em JS
 - **APIs completas com Node.js**  
 <!--- Integrar **bancos de dados** (MongoDB / PostgreSQL) -->
 - Escrever código mais modular e escalável
