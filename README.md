@@ -2,7 +2,7 @@
 
 Sou bacharela em Cinema de Animação pela Universidade Federal de Pelotas e apaixonada por **resolver problemas com lógica**. Atualmente foco em **desenvolvimento back-end**, explorando **JavaScript e Node.js**.  
 
-Mesmo sem criar interfaces visuais, gosto de escrever **código simples e eficiente**, transformando ideias em soluções reais.
+Mesmo sem criar interfaces visuais, estou aprendendo a escrever **código simples e eficiente**, transformando ideias em soluções reais e funcionais.
 
 ---
 
