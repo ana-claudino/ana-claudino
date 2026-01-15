@@ -1,13 +1,12 @@
 # Oie, eu sou Ana Claudino 🌺
 
-Sou bacharela em Cinema de Animação pela Universidade Federal de Pelotas. Sou apaixonada por **resolver problemas com lógica**. Atualmente foco em **desenvolvimento back-end**, explorando **JavaScript e Node.js** para criar aplicações funcionais.  
+Sou bacharela em Cinema de Animação pela Universidade Federal de Pelotas. Sou apaixonada por **resolver problemas com lógica**. Atualmente estou me **aprofundando em Python** 
 
 ---
 
 ## 🛠 Tecnologias & Conceitos
 
-- **JavaScript (ES6+)** — arrays, objetos, funções, async/await, promises  
-- **Node.js** — criando APIs e manipulando dados do servidor  
+- **JavaScript (ES6+)** — arrays, objetos, funções, async/await, promises
 - **Git/GitHub** — versionamento e organização de repositórios  
 - **Lógica e Algoritmos** — resolução de problemas e mini-projetos de back-end  
 
@@ -25,8 +24,7 @@ Sou bacharela em Cinema de Animação pela Universidade Federal de Pelotas. Sou 
 
 ## 🌺 Estou aprendendo
 
-- **Aprofundando** em JS
-- **APIs completas com Node.js**  
+- **Aprofundando** em Python  
 - Código mais modular e escalável
 <!--- Integrar **bancos de dados** (MongoDB / PostgreSQL) -->
 
